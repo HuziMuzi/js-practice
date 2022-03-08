@@ -27,3 +27,9 @@ titleCaseOver = 9000;
 // 4
 let catName = "Oliver";
 let catSound = "Meow!";
+
+// 5 
+const FCC = "freeCodeCamp"; // Change this line
+let fact = "is cool!"; // Change this line
+fact = "is awesome!";
+console.log(FCC, fact); // Change this line
