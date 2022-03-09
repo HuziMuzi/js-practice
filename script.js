@@ -33,3 +33,8 @@ const FCC = "freeCodeCamp"; // Change this line
 let fact = "is cool!"; // Change this line
 fact = "is awesome!";
 console.log(FCC, fact); // Change this line
+
+// 6 
+// Only change code below this line
+const myName = "Andrei";
+const myStr = "My name is "+ myName + " I am well";
