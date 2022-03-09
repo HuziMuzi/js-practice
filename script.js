@@ -38,3 +38,11 @@ console.log(FCC, fact); // Change this line
 // Only change code below this line
 const myName = "Andrei";
 const myStr = "My name is "+ myName + " I am well";
+
+// 7
+// Setup
+let lastNameLength = 0;
+const lastName = "Lovelace";
+
+// Only change code below this line
+lastNameLength = lastName.length;
