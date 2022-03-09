@@ -60,3 +60,9 @@ firstLetterOfLastName = lastName[0]; // Change this line
 const myArray = [["John", 23], ["cat", 2]];
 myArray.push(["dog", 3])
 // Only change code below this line
+
+// 10
+// Setup
+const myArray = [["John", 23], ["cat", 2]];
+const removedFromMyArray = myArray.pop();
+// Only change code below this line
