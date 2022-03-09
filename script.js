@@ -85,3 +85,9 @@ function reusableFunction() {
 	console.log("Hi World");
  }
  reusableFunction();
+
+ // 14
+ function functionWithArgs(a,b) {
+	console.log(a+b)
+ }
+ functionWithArgs(2,3)
