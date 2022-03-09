@@ -79,3 +79,9 @@ const removedFromMyArray = myArray.pop();
 myArray.shift();
 myArray.unshift(["Paul", 35])
 // Only change code below this line
+
+// 13
+function reusableFunction() {
+	console.log("Hi World");
+ }
+ reusableFunction();
