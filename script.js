@@ -149,3 +149,15 @@ function processArg(num) {
 }
 processed = processArg(7)
 // Only change code below this line
+
+// 19 
+function nextInLine(arr, item) {
+	// Only change code below this line
+	arr.push(item)
+	let remove = arr.shift()
+	return remove;
+	// Only change code above this line
+ }
+ 
+ // Setup
+ const testArr = [1, 2, 3, 4, 5];
