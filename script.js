@@ -91,3 +91,9 @@ function reusableFunction() {
 	console.log(a+b)
  }
  functionWithArgs(2,3)
+
+
+ // 15
+ function timesFive(num){
+	return num * 5
+ }
