@@ -161,3 +161,16 @@ function nextInLine(arr, item) {
  
  // Setup
  const testArr = [1, 2, 3, 4, 5];
+
+
+ // 20
+
+ // Setup
+function testStrict(val) {
+	if (val === 7) { // Change this line
+	  return "Equal";
+	}
+	return "Not Equal";
+ }
+ 
+ testStrict(10);
